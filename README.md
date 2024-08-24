@@ -7,7 +7,7 @@
 - computador (opcional) 🤓
 
 # Sobre 🧻
-Esse programa é um gerador de senhas seguras feito em <a href="https://www.python.org" target="_blank">Python</a> apenas para estudo.
+Esse programa é um gerador de senhas seguras amador feito em <a href="https://www.python.org" target="_blank">Python</a> apenas para estudo.
 
 # Instruções 🧲
 Instale a biblioteca "pyperclip":<br>
