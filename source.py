@@ -17,3 +17,4 @@ pyperclip.copy(senha)
 
 print(f"Sua senha segura é: {senha}")
 print("A senha foi copiada para a área de transferência.")
+input("Pressione Enter para fechar o programa...")
