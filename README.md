@@ -1,4 +1,4 @@
-# Gerador de senha segura 🔐
+# Gerador de senha segura genérico 🔐
 ![code](https://github.com/user-attachments/assets/23ad8e44-afc3-4e91-a1a3-2130a7d1f550)
 
 # Requisitos:
