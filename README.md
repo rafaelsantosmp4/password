@@ -12,6 +12,6 @@ Esse programa é um gerador de senhas seguras amador feito em <a href="https://w
 # Instruções 🧲
 Instale a biblioteca "pyperclip":
 ```
-pip instal pyperclip
+pip install pyperclip
 ```
 pronto o programa já vai rodar tranquilo!
